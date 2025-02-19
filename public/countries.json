@@ -1,0 +1,251 @@
+{
+  "uz": {
+    "countries": [
+      {
+        "name": "AQSh",
+        "population": 331002651,
+        "region": "Shimoliy Amerika",
+        "capital": "Vashington",
+        "language": "Ingliz",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/800px-Flag_of_the_United_States.svg.png?20240524035322"
+      },
+      {
+        "name": "O'zbekiston",
+        "population": 36000000,
+        "region": "Markaziy Osiyo",
+        "capital": "Toshkent",
+        "language": "O'zbek",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/1200px-Flag_of_Uzbekistan.svg.png"
+      },
+      {
+        "name": "Buyuk Britaniya",
+        "population": 67886011,
+        "region": "Yevropa",
+        "capital": "London",
+        "language": "Ingliz",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/640px-Flag_of_the_United_Kingdom.svg.png"
+      },
+      {
+        "name": "Yaponiya",
+        "population": 126476461,
+        "region": "Osiyo",
+        "capital": "Tokio",
+        "language": "Yapon",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png"
+      },
+      {
+        "name": "Misr",
+        "population": 102334404,
+        "region": "Afrika",
+        "capital": "Qohira",
+        "language": "Arab",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/1200px-Flag_of_Egypt.svg.png"
+      },
+      {
+        "name": "Braziliya",
+        "population": 212559417,
+        "region": "Janubiy Amerika",
+        "capital": "Braziliya",
+        "language": "Portugal",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/800px-Flag_of_Brazil.svg.png"
+      },
+      {
+        "name": "Turkiya",
+        "population": 84339067,
+        "region": "Osiyo/Yevropa",
+        "capital": "Anqara",
+        "language": "Turk",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg"
+      },
+      {
+        "name": "Hindiston",
+        "population": 1380004385,
+        "region": "Osiyo",
+        "capital": "Yangi Dehli",
+        "language": "Hind",
+        "image": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg"
+      },
+      {
+        "name": "Avstraliya",
+        "population": 25687041,
+        "region": "Okeaniya",
+        "capital": "Kanberra",
+        "language": "Ingliz",
+        "image": "https://cdn.britannica.com/78/6078-050-18D5DEFE/Flag-Australia.jpg"
+      }
+    ],
+    "keys": {
+      "name": "Nomi",
+      "population": "Aholisi",
+      "region": "Mintaqa",
+      "capital": "Poytaxt",
+      "language": "Til"
+    }
+  },
+  "en": {
+    "countries": [
+      {
+        "name": "USA",
+        "population": 331002651,
+        "region": "North America",
+        "capital": "Washington D.C.",
+        "language": "English",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/800px-Flag_of_the_United_States.svg.png?20240524035322"
+      },
+      {
+        "name": "Uzbekistan",
+        "population": 36000000,
+        "region": "Central Asia",
+        "capital": "Tashkent",
+        "language": "Uzbek",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/1200px-Flag_of_Uzbekistan.svg.png"
+      },
+      {
+        "name": "United Kingdom",
+        "population": 67886011,
+        "region": "Europe",
+        "capital": "London",
+        "language": "English",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/640px-Flag_of_the_United_Kingdom.svg.png"
+      },
+      {
+        "name": "Japan",
+        "population": 126476461,
+        "region": "Asia",
+        "capital": "Tokyo",
+        "language": "Japanese",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png"
+      },
+      {
+        "name": "Egypt",
+        "population": 102334404,
+        "region": "Africa",
+        "capital": "Cairo",
+        "language": "Arabic",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/1200px-Flag_of_Egypt.svg.png"
+      },
+      {
+        "name": "Brazil",
+        "population": 212559417,
+        "region": "South America",
+        "capital": "Brasilia",
+        "language": "Portuguese",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/800px-Flag_of_Brazil.svg.png"
+      },
+      {
+        "name": "Turkey",
+        "population": 84339067,
+        "region": "Asia/Europe",
+        "capital": "Ankara",
+        "language": "Turkish",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg"
+      },
+      {
+        "name": "India",
+        "population": 1380004385,
+        "region": "Asia",
+        "capital": "New Delhi",
+        "language": "Hindi",
+        "image": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg"
+      },
+      {
+        "name": "Australia",
+        "population": 25687041,
+        "region": "Oceania",
+        "capital": "Canberra",
+        "language": "English",
+        "image": "https://cdn.britannica.com/78/6078-050-18D5DEFE/Flag-Australia.jpg"
+      }
+    ],
+    "keys": {
+      "name": "Name",
+      "population": "Population",
+      "region": "Region",
+      "capital": "Capital",
+      "language": "Language"
+    }
+  },
+  "ru": {
+    "countries": [
+      {
+        "name": "США",
+        "population": 331002651,
+        "region": "Северная Америка",
+        "capital": "Вашингтон",
+        "language": "Английский",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/800px-Flag_of_the_United_States.svg.png?20240524035322"
+      },
+      {
+        "name": "Узбекистан",
+        "population": 36000000,
+        "region": "Центральная Азия",
+        "capital": "Ташкент",
+        "language": "Узбекский",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/1200px-Flag_of_Uzbekistan.svg.png"
+      },
+      {
+        "name": "Великобритания",
+        "population": 67886011,
+        "region": "Европа",
+        "capital": "Лондон",
+        "language": "Английский",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/640px-Flag_of_the_United_Kingdom.svg.png"
+      },
+      {
+        "name": "Япония",
+        "population": 126476461,
+        "region": "Азия",
+        "capital": "Токио",
+        "language": "Японский",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png"
+      },
+      {
+        "name": "Египет",
+        "population": 102334404,
+        "region": "Африка",
+        "capital": "Каир",
+        "language": "Арабский",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/1200px-Flag_of_Egypt.svg.png"
+      },
+      {
+        "name": "Бразилия",
+        "population": 212559417,
+        "region": "Южная Америка",
+        "capital": "Бразилиа",
+        "language": "Португальский",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/800px-Flag_of_Brazil.svg.png"
+      },
+      {
+        "name": "Турция",
+        "population": 84339067,
+        "region": "Азия/Европа",
+        "capital": "Анкара",
+        "language": "Турецкий",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg"
+      },
+      {
+        "name": "Индия",
+        "population": 1380004385,
+        "region": "Азия",
+        "capital": "Нью-Дели",
+        "language": "Хинди",
+        "image": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg"
+      },
+      {
+        "name": "Австралия",
+        "population": 25687041,
+        "region": "Океания",
+        "capital": "Канберра",
+        "language": "Английский",
+        "image": "https://cdn.britannica.com/78/6078-050-18D5DEFE/Flag-Australia.jpg"
+      }
+    ],
+    "keys": {
+      "name": "Название",
+      "population": "Население",
+      "region": "Регион",
+      "capital": "Столица",
+      "language": "Язык"
+    }
+  }
+}

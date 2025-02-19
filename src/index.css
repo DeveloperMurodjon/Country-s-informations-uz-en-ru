@@ -1,0 +1,45 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+body {
+  background-color: #ffffff;
+  color: #111517;
+}
+
+h2 {
+  color: #2b3945;
+}
+.dark h2 {
+  color: white;
+}
+
+p {
+  color: #2b3945;
+}
+.dark p {
+  color: white;
+}
+.dark body {
+  background-color: #202c37;
+}
+
+.header {
+  background-color: #ffffff;
+}
+.dark .header {
+  background-color: #2b3945;
+}
+
+.card {
+  background-color: #ffffff;
+}
+.dark .card {
+  background-color: #2b3945;
+}
+
+.text-default {
+  color: #111517;
+}
+.dark .text-default {
+  color: #ffffff;
+}
